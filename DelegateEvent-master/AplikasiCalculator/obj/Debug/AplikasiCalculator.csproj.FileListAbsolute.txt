@@ -1,0 +1,19 @@
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\AplikasiCalculator\AplikasiCalculator\bin\Debug\AplikasiCalculator.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\AplikasiCalculator\AplikasiCalculator\bin\Debug\AplikasiCalculator.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.frmHasilPerhitungan.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.frmCalculator.resources
+C:\Users\fqhsa\Downloads\program\tugas\DelegateEvent-master\DelegateEvent-master\AplikasiCalculator\bin\Debug\AplikasiCalculator.exe
+C:\Users\fqhsa\Downloads\program\tugas\DelegateEvent-master\DelegateEvent-master\AplikasiCalculator\bin\Debug\AplikasiCalculator.pdb
+C:\Users\fqhsa\Downloads\program\tugas\DelegateEvent-master\DelegateEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.csprojAssemblyReference.cache
+C:\Users\fqhsa\Downloads\program\tugas\DelegateEvent-master\DelegateEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.frmCalculator.resources
+C:\Users\fqhsa\Downloads\program\tugas\DelegateEvent-master\DelegateEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.Properties.Resources.resources
+C:\Users\fqhsa\Downloads\program\tugas\DelegateEvent-master\DelegateEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.csproj.GenerateResource.cache
+C:\Users\fqhsa\Downloads\program\tugas\DelegateEvent-master\DelegateEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.exe
+C:\Users\fqhsa\Downloads\program\tugas\DelegateEvent-master\DelegateEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.pdb
+C:\Users\fqhsa\Downloads\program\tugas\DelegateEvent-master\DelegateEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.frmHasil.resources
